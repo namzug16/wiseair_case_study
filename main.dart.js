@@ -59766,7 +59766,7 @@ while(true)switch(s){case 0:p=M
 o=t.j
 n=C.b4
 s=2
-return P.ak($.a7n().a4l("json/countries.json"),$async$pv)
+return P.ak($.a7n().a4l("assets/json/countries.json"),$async$pv)
 case 2:q.aU(new p.a34(q,o.a(n.dU(0,b))))
 return P.ab(null,r)}})
 return P.ac($async$pv,r)},
