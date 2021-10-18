@@ -1,6 +1,6 @@
-# wiseair_ui
+# wiseair_case_study
 
-A new Flutter project.
+You can see the case study [here](https://namzug16.github.io/wiseair_case_study/#/)
 
 ## Getting Started
 
